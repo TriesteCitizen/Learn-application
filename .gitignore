@@ -1,0 +1,11 @@
+# Ignoriere temporäre LaTeX-Dateien
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.pdf
+
+# Für potentiellen Python-Code:
+__pycache__/
+venv/
